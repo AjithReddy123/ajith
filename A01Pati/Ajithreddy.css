@@ -1,0 +1,42 @@
+body { 
+
+	display:inline;
+    padding-left: 80px;
+    padding-right: 30px;
+    padding-top: 0px;
+    background-image:url("home1.jpg");
+  }
+p{  
+	font-family:i;
+	font-color:yellow;
+}
+table, tr,th,td{ 
+	border:  none;
+	color:red;
+    
+     }
+ol 
+{
+ font-family: vardana;
+ font-size: 15px;
+ }
+h5{
+	font-size: 15px;
+	font-style: italic;
+}
+#comment a
+{
+	display:inline;
+	padding left:80px;
+font-size: 200%}
+#a{
+	padding-left: 20px;
+}
+.A
+{
+	float:right;
+}
+.B
+{
+	float:right;
+}
